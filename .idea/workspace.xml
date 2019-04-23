@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nasdaqscrape/nasdaqscrape/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -157,12 +157,12 @@
       <updated>1555686906496</updated>
       <workItem from="1555686907726" duration="17273000" />
       <workItem from="1555866075579" duration="9468000" />
-      <workItem from="1555947705095" duration="23362000" />
+      <workItem from="1555947705095" duration="23560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50103000" />
+    <option name="totallyTimeSpent" value="50301000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -176,10 +176,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.25579977" />
-      <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" visible="true" weight="0.25579977" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5022831" side_tool="true" visible="true" weight="0.25579977" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.25274727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -264,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nasdaqscrape/nasdaqscrape/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
