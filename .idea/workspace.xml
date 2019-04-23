@@ -71,6 +71,9 @@
       <replace>response</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,6 +88,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,6 +127,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -152,12 +157,12 @@
       <updated>1555686906496</updated>
       <workItem from="1555686907726" duration="17273000" />
       <workItem from="1555866075579" duration="9468000" />
-      <workItem from="1555947705095" duration="23158000" />
+      <workItem from="1555947705095" duration="23362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49899000" />
+    <option name="totallyTimeSpent" value="50103000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
